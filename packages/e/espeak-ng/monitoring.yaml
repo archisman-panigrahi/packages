@@ -1,0 +1,8 @@
+releases:
+  id: 12958
+  rss: https://github.com/espeak-ng/espeak-ng/tags.atom
+# Verify successful cpe hits by visiting https://cve.circl.lu/search/$VENDOR/$PRODUCT
+security:
+  cpe:
+  - vendor: espeak-ng
+    product: espeak-ng

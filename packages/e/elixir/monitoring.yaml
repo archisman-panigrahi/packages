@@ -1,0 +1,16 @@
+releases:
+  id: 673
+  rss: https://github.com/elixir-lang/elixir/tags.atom
+# Verify successful cpe hits by visiting https://cve.circl.lu/search/$VENDOR/$PRODUCT
+security:
+  cpe:
+  - vendor: docker
+    product: elixir_alpine_docker_image
+  - vendor: starkbank
+    product: elixir_ecdsa
+  - vendor: ortussolutions
+    product: coldbox_elixir
+  - vendor: ibm
+    product: ilog_elixir
+  - vendor: teamworktec
+    product: elixir
