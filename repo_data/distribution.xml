@@ -2916,5 +2916,13 @@
 		<Package>gstreamer-1.0-plugins-opencv</Package>
 		<Package>gstreamer-1.0-plugins-opencv-dbginfo</Package>
 		<Package>gstreamer-1.0-plugins-opencv-devel</Package>
+		<Package>transgui</Package>
+		<Package>transgui-dbginfo</Package>
+		<Package>openssl-11</Package>
+		<Package>openssl-11-32bit</Package>
+		<Package>openssl-11-32bit-dbginfo</Package>
+		<Package>openssl-11-32bit-devel</Package>
+		<Package>openssl-11-dbginfo</Package>
+		<Package>openssl-11-devel</Package>
 	</Obsoletes>
 </PISI>

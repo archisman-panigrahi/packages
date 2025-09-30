@@ -3961,5 +3961,17 @@
 		<Package>gstreamer-1.0-plugins-opencv-dbginfo</Package>
 		<Package>gstreamer-1.0-plugins-opencv-devel</Package>
 
+		<!-- No release since 2019, depends on openssl 1.1.1 -->
+		<Package>transgui</Package>
+		<Package>transgui-dbginfo</Package>
+
+		<!-- We can't get updates for this anymore -->
+		<Package>openssl-11</Package>
+		<Package>openssl-11-32bit</Package>
+		<Package>openssl-11-32bit-dbginfo</Package>
+		<Package>openssl-11-32bit-devel</Package>
+		<Package>openssl-11-dbginfo</Package>
+		<Package>openssl-11-devel</Package>
+
 	</Obsoletes>
 </PISI>
