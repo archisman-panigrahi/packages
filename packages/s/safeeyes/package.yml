@@ -14,15 +14,15 @@ builddeps  :
     - python-installer
     - python-setuptools
 rundeps    :
-    - libayatana-appindicator
+    - libnotify
+    - pipewire
     - python-babel
     - python-croniter
     - python-gobject
-    - python-psutil
+    - python-packaging
     - python-xlib
-    - python3-tkinter
+    - python-pywayland
     - xprintidle
-    - xprop
 build      : |
     %python3_setup
 install    : |
